@@ -59,7 +59,7 @@ function App() {
         <div className='grid gap-4 grid-cols-3 md:grid-cols-6'>
           <div className='bg-white rounded-2xl mt-1 max-w-lg '>
             <div className='grid  '>
-              <img alt='Picture Project' src={next} className=' bg-cover w-max h-max bg-center rounded-2xl shadow-lg md:shadow-2xl'></img>
+              <img alt='Picture Project' src={next} className=' bg-cover w-max bg-center rounded-2xl shadow-lg md:shadow-2xl'></img>
             </div>
           </div>
           <div className='bg-white rounded-2xl mt-1 max-w-lg '>
