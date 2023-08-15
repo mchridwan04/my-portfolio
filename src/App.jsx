@@ -6,6 +6,7 @@ import Footer from './components/Footer'
 import Header from './components/Header'
 import foto from './assets/foto.jpg'
 import pengelolaan from './assets/pengelolaan.png'
+import netflix from './assets/netflix-clone.png'
 import next from './assets/tech/next.png'
 import laravel from './assets/tech/laravel.png'
 import react from './assets/tech/react.png'
@@ -103,28 +104,28 @@ function App() {
           <div className='grid gap-4 md:grid-cols-4'>
             <div className='bg-white rounded-2xl mt-1 max-w-lg pt-3'>
               <div className='grid'>
-                <img alt='Picture Project' src={pengelolaan} className='mx-auto bg-cover w-max bg-center'></img>
+                <img alt='Picture Project' src={netflix} className='mx-auto bg-cover w-max bg-center'></img>
                 <h1 className='font-bold text-center mt-2'>Sistem Pengeloaan Desa</h1>
                 <h1 className='font-bold text-center text-gray-700/70'>Laravel 10-MySql-Boostrap</h1>
               </div>
             </div>
             <div className='bg-white rounded-2xl mt-1 max-w-lg pt-3'>
               <div className='grid'>
-                <img alt='Picture Project' src={pengelolaan} className='mx-auto bg-cover w-max bg-center'></img>
+                <img alt='Picture Project' src={netflix} className='mx-auto bg-cover w-max bg-center'></img>
                 <h1 className='font-bold text-center mt-2'>Sistem Pengeloaan Desa</h1>
                 <h1 className='font-bold text-center text-gray-700/70'>Laravel 10-MySql-Boostrap</h1>
               </div>
             </div>
             <div className='bg-white rounded-2xl mt-1 max-w-lg pt-3'>
               <div className='grid'>
-                <img alt='Picture Project' src={pengelolaan} className='mx-auto bg-cover w-max bg-center'></img>
+                <img alt='Picture Project' src={netflix} className='mx-auto bg-cover w-max bg-center'></img>
                 <h1 className='font-bold text-center mt-2'>Sistem Pengeloaan Desa</h1>
                 <h1 className='font-bold text-center text-gray-700/70'>Laravel 10-MySql-Boostrap</h1>
               </div>
             </div>
             <div className='bg-white rounded-2xl mt-1 max-w-lg pt-3'>
               <div className='grid'>
-                <img alt='Picture Project' src={pengelolaan} className='mx-auto bg-cover w-max bg-center'></img>
+                <img alt='Picture Project' src={netflix} className='mx-auto bg-cover w-max bg-center'></img>
                 <h1 className='font-bold text-center mt-2'>Sistem Pengeloaan Desa</h1>
                 <h1 className='font-bold text-center text-gray-700/70'>Laravel 10-MySql-Boostrap</h1>
               </div>
