@@ -102,35 +102,13 @@ function App() {
             </div>
           </div>
           <div className='grid gap-4 md:grid-cols-4'>
-            <div className='bg-white rounded-2xl mt-1 max-w-lg pt-3'>
+            <div className='bg-white rounded-2xl mt-1 max-w-lg pb-2'>
               <div className='grid'>
-                <img alt='Picture Project' src={netflix} className='mx-auto bg-cover w-max bg-center'></img>
-                <h1 className='font-bold text-center mt-2'>Sistem Pengeloaan Desa</h1>
-                <h1 className='font-bold text-center text-gray-700/70'>Laravel 10-MySql-Boostrap</h1>
+                <img alt='Picture Project' src={netflix} className='mx-auto bg-cover w-max bg-center rounded-xl'></img>
+                <h1 className='font-bold text-center mt-2'>Netflix-Clone</h1>
+                <h1 className='font-bold text-center text-gray-700/70'>Laravel 9 - Tailwind CSS - Node JS</h1>
               </div>
             </div>
-            <div className='bg-white rounded-2xl mt-1 max-w-lg pt-3'>
-              <div className='grid'>
-                <img alt='Picture Project' src={netflix} className='mx-auto bg-cover w-max bg-center'></img>
-                <h1 className='font-bold text-center mt-2'>Sistem Pengeloaan Desa</h1>
-                <h1 className='font-bold text-center text-gray-700/70'>Laravel 10-MySql-Boostrap</h1>
-              </div>
-            </div>
-            <div className='bg-white rounded-2xl mt-1 max-w-lg pt-3'>
-              <div className='grid'>
-                <img alt='Picture Project' src={netflix} className='mx-auto bg-cover w-max bg-center'></img>
-                <h1 className='font-bold text-center mt-2'>Sistem Pengeloaan Desa</h1>
-                <h1 className='font-bold text-center text-gray-700/70'>Laravel 10-MySql-Boostrap</h1>
-              </div>
-            </div>
-            <div className='bg-white rounded-2xl mt-1 max-w-lg pt-3'>
-              <div className='grid'>
-                <img alt='Picture Project' src={netflix} className='mx-auto bg-cover w-max bg-center'></img>
-                <h1 className='font-bold text-center mt-2'>Sistem Pengeloaan Desa</h1>
-                <h1 className='font-bold text-center text-gray-700/70'>Laravel 10-MySql-Boostrap</h1>
-              </div>
-            </div>
-
           </div>
         </div>
 
